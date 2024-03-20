@@ -4,7 +4,7 @@ Code for ICASSP 2024 paper: "F2GNN: AN ADAPTIVE FILTER WITH FEATURE SEGMENTATION
 
 Guanghui Hu, Yang Liu, Qing He, Xiang Ao
 
-# Dependencies
+## Dependencies
 
 The code has been successfully tested in the following environment:
 
@@ -16,7 +16,7 @@ The code has been successfully tested in the following environment:
 - scipy==1.9.3
 - pyyaml==6.0
 
-## Usage
+# Usage
 
 For the Amazon dataset:
 
