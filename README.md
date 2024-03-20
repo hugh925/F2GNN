@@ -1,6 +1,6 @@
 # F2GNN
 
-Code for ICASSP 2024 paper: "F2GNN: AN ADAPTIVE FILTER WITH FEATURE SEGMENTATION FOR GRAPH-BASED FRAUD DETECTION".
+Code for ICASSP 2024 paper: "F2GNN: An Adaptive Filter with Feature Segmentation for Graph-Based Fraud Detection".
 
 Guanghui Hu, [Yang Liu](https://yliu.site/) , [Qing He](https://people.ucas.ac.cn/~heqing?language=en) , [Xiang Ao](https://aoxaustin.github.io/)
 
