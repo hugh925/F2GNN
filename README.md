@@ -2,7 +2,7 @@
 
 Code for ICASSP 2024 paper: "F2GNN: AN ADAPTIVE FILTER WITH FEATURE SEGMENTATION FOR GRAPH-BASED FRAUD DETECTION".
 
-Guanghui Hu, [Yang Liu](https://yliu.site/),  [Qing He](https://people.ucas.ac.cn/~heqing?language=en), [Xiang Ao](https://aoxaustin.github.io/)
+Guanghui Hu, [Yang Liu](https://yliu.site/) , [Qing He](https://people.ucas.ac.cn/~heqing?language=en) , [Xiang Ao](https://aoxaustin.github.io/)
 
 ## Dependencies
 
@@ -16,7 +16,7 @@ The code has been successfully tested in the following environment:
 - scipy==1.9.3
 - pyyaml==6.0
 
-# Usage
+## Usage
 
 For the Amazon dataset:
 
@@ -33,5 +33,11 @@ python run.py --dataset yelpchi
 ## Cite
 
 ```
- 
+@INPROCEEDINGS{10446523,
+  title={F2GNN: An Adaptive Filter with Feature Segmentation for Graph-Based Fraud Detection}, 
+  author={Hu, Guanghui and Liu, Yang and He, Qing and Ao, Xiang},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={6335-6339},
+  year={2024},
+  organization={IEEE}
 ```
