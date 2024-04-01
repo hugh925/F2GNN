@@ -33,11 +33,12 @@ python run.py --dataset yelpchi
 ## Cite
 
 ```
-@INPROCEEDINGS{10446523,
-  title={F2GNN: An Adaptive Filter with Feature Segmentation for Graph-Based Fraud Detection}, 
+@inproceedings{hu2024f2gnn,
+  title={F2GNN: An Adaptive Filter with Feature Segmentation for Graph-Based Fraud Detection},
   author={Hu, Guanghui and Liu, Yang and He, Qing and Ao, Xiang},
   booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={6335-6339},
+  pages={6335--6339},
   year={2024},
   organization={IEEE}
+}
 ```
